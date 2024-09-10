@@ -1,4 +1,4 @@
-package Test_Folder;
+package LanguageFolder;
 
 public class ternaryOperator 
 {
@@ -11,6 +11,10 @@ public class ternaryOperator
         int num = 4;
         String type = ((num%2)==0)? "even":"odd";
         System.out.println(type);
+        
+        int marks=55;
+        String result = marks >=33? "Pass":"Fail";
+        System.out.println(result);
 
     } 
 }
