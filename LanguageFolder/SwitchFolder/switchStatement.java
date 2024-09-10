@@ -1,4 +1,4 @@
-package LanguageFolder;
+package LanguageFolder.SwitchFolder;
 
 public class switchStatement 
 {
